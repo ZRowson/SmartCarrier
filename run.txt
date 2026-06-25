@@ -1,0 +1,420 @@
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   206-444-7732                 3                  1448.73               72.44
+   305-666-9912                 5                  1794.47               89.72
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 7                   429.60               21.48
+   415-222-8834                 5                   445.57               22.28
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 6                  1027.47               51.37
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 2
+
+Please provide the account's phone number: 555-555-5555
+*** Account 555-555-5555 not found ***
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 2
+
+Please provide the account's phone number: 206-444-7732
+Please provide a message size (MB): 30.5
+Please provide the recipient's phone number: 555-555-5555
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   206-444-7732                 4                  1479.23               73.96
+   305-666-9912                 5                  1794.47               89.72
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 7                   429.60               21.48
+   415-222-8834                 5                   445.57               22.28
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 6                  1027.47               51.37
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 555-555-5555
+*** Account 555-555-5555 not found ***
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 312-555-9827
+Total data purged: 0.00 MB
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 503-888-2241
+Total data purged: 0.00 MB
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 415-222-8834
+Total data purged: 189.34 MB
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   206-444-7732                 4                  1479.23               73.96
+   305-666-9912                 5                  1794.47               89.72
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 7                   429.60               21.48
+   415-222-8834                 4                   256.23               12.81
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 6                  1027.47               51.37
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 773-555-4423
+Total data purged: 789.01 MB
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   206-444-7732                 4                  1479.23               73.96
+   305-666-9912                 5                  1794.47               89.72
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 7                   429.60               21.48
+   415-222-8834                 4                   256.23               12.81
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 5                   238.46               11.92
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 404-111-6678
+Total data purged: 101.23 MB
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   206-444-7732                 4                  1479.23               73.96
+   305-666-9912                 5                  1794.47               89.72
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 6                   328.37               16.42
+   415-222-8834                 4                   256.23               12.81
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 5                   238.46               11.92
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 3
+
+Please provide the account's phone number: 305-666-9912
+Total data purged: 1725.35 MB
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   206-444-7732                 4                  1479.23               73.96
+   305-666-9912                 2                    69.12                3.46
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 6                   328.37               16.42
+   415-222-8834                 4                   256.23               12.81
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 5                   238.46               11.92
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 4
+
+Please provide the account's phone number: 555-555-5555
+*** Account 555-555-5555 not found ***
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 4
+
+Please provide the account's phone number: 206-444-7732
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   305-666-9912                 2                    69.12                3.46
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 6                   328.37               16.42
+   415-222-8834                 4                   256.23               12.81
+   503-888-2241                 2                   157.83                7.89
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 5                   238.46               11.92
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 4
+
+Please provide the account's phone number: 503-888-2241
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   305-666-9912                 2                    69.12                3.46
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 6                   328.37               16.42
+   415-222-8834                 4                   256.23               12.81
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 5                   238.46               11.92
+   917-888-5534                 3                   770.24               38.51
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 4
+
+Please provide the account's phone number: 917-888-5534
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 1
+
+        Account    Total Messages    Total Data Usage (MB)    Total Charge ($)
+   305-666-9912                 2                    69.12                3.46
+   312-555-9827                 0                     0.00                0.00
+   404-111-6678                 6                   328.37               16.42
+   415-222-8834                 4                   256.23               12.81
+   602-777-3345                 4                  1115.34               55.77
+   714-333-6621                 1                    45.75                2.29
+   773-555-4423                 5                   238.46               11.92
+
+              WONDERFUL WIRELESS
+
+                 ACCOUNT ADMIN
+
+1. List all accounts and their messages' usages
+2. Add a message to an account
+3. Purge large messages from an account
+4. Disconnect an account
+5. Quit
+
+Select an option (1-5): 5
+
+Exiting SmartCarrier service...
+
+C:\Users\zacha\source\repos\Foothill - CS 2B - SP26\Assignment4\x64\Debug\Assignment4.exe (process 15000) exited with code 0 (0x0).
+Press any key to close this window . . .
